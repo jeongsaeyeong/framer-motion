@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 const Section02 = () => {
     return (
         <section id='section02' className='react__item'>
-            <span className='num'>01 animate</span>
+            <span className='num'>02 animate</span>
             <motion.div
                 className='circle'
                 whileHover={{
